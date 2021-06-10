@@ -1,5 +1,5 @@
 #Django
-Django==2.2.13
+Django==2.2.24
 pytz==2018.9
 #Postgresql
 psycopg2-binary==2.8.6
